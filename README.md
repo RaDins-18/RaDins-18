@@ -1,8 +1,8 @@
 <h1 align="center">
-	Hi there 👋, I'm RaDin
+	Hi there 👋, I'm RaDin Adwell
 </h1>
 <p align="center">
-	You can call me radin
+	You can call me RaDin
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 <p align="center">
 	<a href="https://github.com/RaDins-18">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndrvndr&layout=compact&theme=github_dark&hide_border=true" alt="GitHub Stats Card" /><br />
-		<img src="https://github-readme-stats.vercel.app/api?username=ndrvndr&show_icons=true&theme=github_dark&hide_border=true" alt="Top Languages Card" /><br />
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndrvndr&theme=github-dark-blue&hide_border=true" alt="GitHub Stats Streak" /><br />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaDins-18&layout=compact&theme=github_dark&hide_border=true" alt="GitHub Stats Card" /><br />
+		<img src="https://github-readme-stats.vercel.app/api?username=RaDins-18&show_icons=true&theme=github_dark&hide_border=true" /><br />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=github-dark-blue&hide_border=true" alt="GitHub Stats Streak" /><br />
 	</a>
 </p>
 
@@ -34,8 +34,8 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 	</a>&nbsp;
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+	<a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
+    	<img src="https://img.shields.io/badge/C++-404D59?style=for-the-badge&logo=cplusplus&logoColor=white" alt="typescript" />
    	 </a>&nbsp;
 	<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -51,20 +51,11 @@
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     	</a>&nbsp;
-	<a href="https://sass-lang.com" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
-    	</a>&nbsp;
 	<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
    	 </a>&nbsp;
 	<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-   	</a>&nbsp;
-	<a href="https://styled-components.com/" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-   	</a>&nbsp;
-	<a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/redux-%2523593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    	<img src="https://img.shields.io/badge/React-204357?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
    	</a>&nbsp;
 	<a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next.js" />
@@ -93,26 +84,24 @@
     </a>
 </p>
 
-### Testing
-
-<p align="left">
-	<a href="https://jestjs.io" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" />
-	</a>
-</p>
-
 ### Software
 
 <p align="left">
 	<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
    	 </a>&nbsp;
-	<a href="https://postman.com" target="_blank" rel="noopener noreferrer">
-    	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-    </a>&nbsp;
 	<a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
     </a>&nbsp;
+	<a href="https://postman.com" target="_blank" rel="noopener noreferrer">
+    	<img src="https://img.shields.io/badge/Postman-443266?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+    </a>&nbsp;
+	<a href="https://github.com" target="_blank" rel="noopener noreferrer">
+    	<img src="https://img.shields.io/badge/github-334455?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>&nbsp;
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    	<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="30" height="30"/>
+   	 </a>&nbsp;
 	<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
    	 </a>
@@ -125,17 +114,14 @@
 ## Social
 
 <p align="left">
-	<a href="https://linkedin.com/in/andre-avindra" target="blank">
+	<!-- <a href="https://github.com/RaDins-18" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-avindra" height="30" width="40" />
-	</a>
-	<a href="https://kaggle.com/andreavindra" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andreavindra" height="30" width="40" />
-	</a>
-	<a href="https://instagram.com/ndr.vndr" target="blank">
+	</a> -->
+	<a href="https://www.instagram.com/radinsterritory/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ndr.vndr" height="30" width="40" />
 	</a>
-	<a href="https://www.hackerrank.com/andreavindra37" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andreavindra37" height="30" width="40" />
+	<a href="https://www.facebook.com/profile.php?id=61562026917473/" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ndr.vndr" height="30" width="40" />
 	</a>
 </p>
 
@@ -144,7 +130,7 @@
 ## Reach Me
 
 <p align="left">
-	<a href="mailto:andreavindra37@gmail.com" target="_blank" rel="noopener noreferrer">
+	<a href="mailto:radinofficial15@gmail.com" target="_blank" rel="noopener noreferrer">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 	</a>
 </p>

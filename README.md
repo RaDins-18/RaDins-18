@@ -118,7 +118,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radinsterritory" height="30" width="40" />
 	</a> -->
     <a href="https://radins-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-    	<img align="center" src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" height="40" />
+    	<img align="center" src="https://img.shields.io/badge/portfolio-334455.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" height="40" />
 	</a>
 	<a href="https://www.instagram.com/radinsterritory/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radinsterritory" height="30" width="40" />

@@ -30,10 +30,10 @@
 <p align="left" style="display:flex; flex-gap:50px;">
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-	</a>&nbsp;
+	</a>&nbsp;&nbsp;
 	<a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/C++-404D59?style=for-the-badge&logo=cplusplus&logoColor=white" alt="typescript" />
-   	 </a>&nbsp;
+   	 </a>&nbsp;&nbsp;
 	<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 	</a>

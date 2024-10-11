@@ -16,9 +16,9 @@
 
 <p align="center">
 	<a href="https://github.com/RaDins-18">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaDins-18&layout=compact&theme=github_dark&hide_border=true " alt="GitHub Stats Card" /><br />
-		<img src="https://github-readme-stats.vercel.app/api?username=RaDins-18&show_icons=true&theme=github_dark&hide_border=true " /><br />
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=github-dark-blue&hide_border=true " alt="GitHub Stats Streak" /><br />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaDins-18&layout=compact&theme=github_dark&hide_border=true" alt="GitHub Stats Card" /><br />
+		<img src="https://github-readme-stats.vercel.app/api?username=RaDins-18&show_icons=true&theme=github_dark&hide_border=true" /><br />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=github-dark-blue&hide_border=true" alt="GitHub Stats Streak" /><br />
 	</a>
 </p>
 

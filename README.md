@@ -27,14 +27,14 @@
 ## Skills
 	
 ### Programming Languages
-<p align="left" style="display:flex; flex-gap:50px;">
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+<p align="left" style="display: flex; flex-gap: 50px;">
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 	</a>&nbsp;&nbsp;
-	<a href="https://cplusplus.com/" target="_blank" rel="noopener noreferrer">
+	<a href="https://cplusplus.com/" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
     	<img src="https://img.shields.io/badge/C++-404D59?style=for-the-badge&logo=cplusplus&logoColor=white" alt="typescript" />
    	 </a>&nbsp;&nbsp;
-	<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.python.org" style="text-decoration: none;" target="_blank" rel="noopener noreferrer">
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 	</a>
 </p>

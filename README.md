@@ -25,9 +25,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Skills
-
-<details>
-<summary>Full Skills (click to toggle)</summary>
 	
 ### Programming Languages
 <p align="left">
@@ -106,8 +103,6 @@
     	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
    	 </a>
 </p>
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

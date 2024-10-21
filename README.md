@@ -18,7 +18,7 @@
 	<a href="https://github.com/RaDins-18">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaDins-18&layout=compact&theme=github_dark&hide_border=true%22%20alt=%22GitHub%20Stats%20Card" alt="Used Languages" /><br />
 		<img src="https://github-readme-stats.vercel.app/api?username=RaDins-18&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" /><br />
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=github-dark-blue&hide_border=true" alt="GitHub Stats Streak" /><br />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=github-dark-blue&hide_border=true%22%20alt=%22GitHub%20Stats%20Streak" alt="GitHub Stats Streak" /><br />
 	</a>
 </p>
 

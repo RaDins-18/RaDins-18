@@ -14,6 +14,8 @@
 	I'm a full-stack developer passionate about building secure, fast, and user-friendly web apps using tools like MERN, NextJs and others. I enjoy solving problems and bringing ideas to life through clean, efficient code.
 </p>
 
+<hr />
+
 <h3 align="left">Github Statistics</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaDins-18&style=flat&color=blue)

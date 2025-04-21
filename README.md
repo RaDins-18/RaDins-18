@@ -14,6 +14,16 @@
 
 ## Stats
 
+<!-- &nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/ahadalireach) -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahadalireach&style=flat&color=blue)
+[![Wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
+<img src="https://img.shields.io/badge/Languages-Javascript | React | Node | Express | MongoDB | SQL-green.svg" alt="Ahad Ali's languages" />
+
+| <img src="https://github-readme-stats.vercel.app/api?username=ahadalireach&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ahad Ali GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadalireach&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
 <p align="center">
 	<a href="https://github.com/RaDins-18">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaDins-18&layout=compact&theme=github_dark&hide_border=true%22%20alt=%22GitHub%20Stats%20Card" alt="Used Languages" /><br />

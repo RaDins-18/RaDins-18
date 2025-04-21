@@ -18,7 +18,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaDins-18&style=flat&color=blue)
 [![Wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
-<img src="https://img.shields.io/badge/Languages-Javascript%20%7C%20React%20%7C%20Node%20%7C%20Express%20%7C%20MongoDB%20%7C%20NextJs-blue.svg" alt="RaDins languages" />
 
 | <img src="https://github-readme-stats.vercel.app/api?username=RaDins-18&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" alt="RaDins GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=github-dark-blue&count_private=true&include_all_commits=true&hide_border=true" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

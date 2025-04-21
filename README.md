@@ -116,12 +116,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=js,figma,git,mongodb,nodejs,nextjs,tailwind,ts,solidity,ipfs"/>
-	<img src="https://github.com/user-attachments/assets/ad9271a4-1157-4981-be58-618e7bfb0385"  height="50" width="50">
-	<img src="https://github.com/user-attachments/assets/2c31a105-de23-45e8-9809-622f05c9df95"  height="50" width="50">
-	<img src="https://github.com/user-attachments/assets/97ab8a82-2680-4845-a9cb-83f6d1448992"  height="50" width="50">
-	<img src="https://github.com/user-attachments/assets/cc21bee1-d8c5-4285-9094-4e104bffad2c"  height="50" width="50">
-	<img src="https://github.com/user-attachments/assets/d8df5707-359b-4bd3-9b5f-afab6ed14c87"  height="50" width="50">   
+	<img src="https://skillicons.dev/icons?i=html,css,js,python,react,figma,git,mongodb,nodejs,express,nextjs,tailwind,ts,vscode,postman"/>
 </p>
 
 

@@ -16,11 +16,11 @@
 
 <!-- &nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/ahadalireach) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahadalireach&style=flat&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=RaDins-18&style=flat&color=blue)
 [![Wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
-<img src="https://img.shields.io/badge/Languages-Javascript | React | Node | Express | MongoDB | SQL-green.svg" alt="Ahad Ali's languages" />
+<img src="https://img.shields.io/badge/Languages-Javascript%20%7C%20React%20%7C%20Node%20%7C%20Express%20%7C%20MongoDB%20%7C%20NextJs-blue.svg" alt="RaDins languages" />
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ahadalireach&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ahad Ali GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadalireach&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=RaDins-18&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="RaDins GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 

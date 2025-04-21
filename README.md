@@ -19,7 +19,7 @@
 <h3 align="left">Github Statistics</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaDins-18&style=flat&color=blue)
-[![Wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
+[![wakatime](https://wakatime.com/badge/user/efbb3c19-b3aa-4eec-9f2a-0fb4766dc89d.svg)](https://wakatime.com/@efbb3c19-b3aa-4eec-9f2a-0fb4766dc89d)
 
 | <img src="https://github-readme-stats.vercel.app/api?username=RaDins-18&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" alt="RaDins GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaDins-18&theme=github-dark-blue&count_private=true&include_all_commits=true&hide_border=true" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |

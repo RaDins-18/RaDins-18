@@ -14,11 +14,7 @@
 	I'm a full-stack developer passionate about building secure, fast, and user-friendly web apps using tools like MERN, NextJs and others. I enjoy solving problems and bringing ideas to life through clean, efficient code.
 </p>
 
----
-***
-___
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkYAAAABCAYAAAA7H2GRAAAAAXNSR0IArs4c6QAAACdJREFUSEtj1De1/c8wCkZDYDQERkNgNARGQ2A0BEZDYKSHACPDHQDXNwJ/3MgydgAAAABJRU5ErkJggg==">
 
 <h3 align="left">Github Statistics</h3>
 

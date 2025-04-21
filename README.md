@@ -1,18 +1,20 @@
 <h1 align="center">
-	Hi there 👋, I'm Abuzar Alvi
+	Hi 👋, I'm Abuzar Alvi
 </h1>
+
 <p align="center">
 	You can call me RaDin
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=ndrvndr&color=447ff7&label=Profile+views" alt="Visitor Count Badge" />
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Full-Stack+Web+Developer&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Full-Stack+Web+Developer&center=true&width=380&height=45">
 </p>
 
-<h3 align="left">Stats</h3>
+<p align="center">
+	A curated list of awesome Github Profile READMEs
+</p>
+
+<h3 align="left">Github Statistics</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaDins-18&style=flat&color=blue)
 [![Wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
